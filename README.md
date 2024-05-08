@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=scientistigwe&style=flat-square&color=blue" alt="my profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=owuradaps&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <div align="center">
 <h1>
@@ -66,6 +66,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scientistigwe&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scientistigwe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owuradaps&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Igwe C.C's GitHub stats](https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&theme=radical)
+![Igwe C.C's GitHub stats](https://github-readme-stats.vercel.app/api?username=owuradaps&show_icons=true&theme=radical)
